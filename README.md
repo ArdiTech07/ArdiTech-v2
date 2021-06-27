@@ -27,3 +27,4 @@ bash ArdiTech.sh
 
 ### Contoh Screenshot:
 ![Alt text](https://i.ibb.co/CskCY8P/IMG-20210627-152851.jpg "ArdiTech")
+![Alt text](https://i.ibb.co/Kx9spdQ/IMG-20210627-160638.jpg "Foto")
