@@ -17,6 +17,7 @@ bash ArdiTech.sh
 ```
 
 ## Full Tutorial:
+<code><a href="https://wa.me/6285282996146" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg"></a></code>
 <code><a href="https://youtube.com/channel/UCzIFppli9TWd4is-9vhGCaQ" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></a></code>
 
 ## Fitur Tools:
