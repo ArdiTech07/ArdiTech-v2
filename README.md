@@ -2,8 +2,8 @@
 <h2>Power By ArdiGans <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ## Peringatan!
-[±] Jangan Asal Recode Gan Ntar Ada Yang Error. Malah Jadi Bingung Sendiri
-[±] Kasi Nama/Credit Gua Kalo Mau Recode.
+#### [±] Jangan Asal Recode Gan Ntar Ada Yang Error. Malah Jadi Bingung Sendiri
+#### [±] Kasi Nama/Credit Gua Kalo Mau Recode.
 
 
 ### Command [Termux]:
@@ -22,7 +22,7 @@ bash ArdiTech.sh
 ## Fitur Tools:
 ### [+] Ngrok Dengan Hotspot/No Hotspot
 #### [+] Tambahan Vitur Tools Game Online
-#### [+] Fitur Lebih Dari 40+
+#### [+] Fitur Lebih Dari 30+
 
 ### Contoh Screenshot:
-![Alt text](https://image.ibb.co/nhdEwK/phish.png "ArdiTech")
+![Alt text](https://i.ibb.co/CskCY8P/IMG-20210627-152851.jpg "ArdiTech")
